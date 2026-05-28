@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdrocess",
+        "uuid": 15159298,
+        "checksum": "zaim5j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
